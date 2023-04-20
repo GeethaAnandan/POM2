@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-20T12:16:30 IST" name="Default suite" finished-at="2023-04-20T12:16:40 IST" duration-ms="9654">
+    <groups>
+    </groups>
+    <test started-at="2023-04-20T12:16:30 IST" name="Default test" finished-at="2023-04-20T12:16:40 IST" duration-ms="9654">
+      <class name="tests.TestOrangeHRMApp">
+        <test-method is-config="true" signature="loginToApplication()[pri:0, instance:tests.TestOrangeHRMApp@60099951]" started-at="2023-04-20T12:16:30 IST" name="loginToApplication" finished-at="2023-04-20T12:16:37 IST" duration-ms="6946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method signature="test_OrangeHRM_Loginpage()[pri:0, instance:tests.TestOrangeHRMApp@60099951]" started-at="2023-04-20T12:16:37 IST" name="test_OrangeHRM_Loginpage" finished-at="2023-04-20T12:16:40 IST" duration-ms="2676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_OrangeHRM_Loginpage -->
+      </class> <!-- tests.TestOrangeHRMApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
